@@ -3,11 +3,11 @@ Automatic Data Extraction from Result Pages
 
 
 
-Jinsong Guo - University of Oxford
-Valter Crescenzi - Università Roma Tre
-Giovanni Grasso - University of Calabria, Italy  / Meltwater - Wrapidity, UK
-Tim Furche - University of Oxford / Meltwater - Wrapidity, UK
-Georg Gottlob - University of Oxford / TU Wien
+- Jinsong Guo - University of Oxford
+- Valter Crescenzi - Università Roma Tre
+- Giovanni Grasso - University of Calabria, Italy  / Meltwater - Wrapidity, UK
+- Tim Furche - University of Oxford / Meltwater - Wrapidity, UK
+- Georg Gottlob - University of Oxford / TU Wien
 
 
 
